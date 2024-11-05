@@ -1,0 +1,9 @@
+/AppData/
+/Documents/
+/Downloads/
+/Favorites/
+/Music/
+*.log
+.DS_Store
+Thumbs.db
+NTUSER.DAT*
